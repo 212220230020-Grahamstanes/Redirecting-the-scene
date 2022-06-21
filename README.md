@@ -1,4 +1,4 @@
-# Redirecting-the-scene
+# Redirecting the scene
 
 ## Aim:
 To Redirecting the scene in the unity engine.
